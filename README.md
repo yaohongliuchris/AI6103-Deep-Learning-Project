@@ -1,4 +1,3 @@
-# AI6103-Deep-Learning-Project
 # IKC implementation
 Here is an implementation of ['Blind Super-Resolution With Iterative Kernel Correction'](https://arxiv.org/abs/1904.03377)
 ## Prerequirements
