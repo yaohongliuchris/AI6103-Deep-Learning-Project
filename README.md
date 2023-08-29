@@ -7,7 +7,7 @@ High RAM GPU For Training
 For a easier way to train and test model, you can download the CodeInpy/IKC.ipynb, open in colab and run the code as instructions there. (you need to change to GPU runtime to run our code)
 ### run on your own environment
 ```
-git clone https://github.com/RayW18/AI6103-Deep-Learning-Project.git
+git clone https://github.com/yaohongliuchris/AI6103-Deep-Learning-Project
 ```
 After that, you need to change the paths in main.yaml to your own path.
 ### Directory Structure
